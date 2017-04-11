@@ -29,3 +29,4 @@ Jupyter is an Ipython notebook where you can run blocks of code and see results 
 
 A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook. 
 
+*This project was designed and constructed by Udacity - Self-Driving Car NanoDegree.
